@@ -941,3 +941,10 @@ Entries:
   id: 2230
   time: '2026-05-26T12:33:04.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/125
+- author: DDrakov
+  changes:
+    - type: Tweak
+      message: Lower the volume of cleannade by -6db
+  id: 2231
+  time: '2026-05-26T14:22:29.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/131
