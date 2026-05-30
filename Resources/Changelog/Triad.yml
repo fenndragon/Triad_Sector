@@ -1081,3 +1081,14 @@ Entries:
   id: 2248
   time: '2026-05-30T23:05:09.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/167
+- author: Monolith
+  changes:
+    - type: Add
+      message: Added heavy-duty airlocks.
+    - type: Tweak
+      message: Buffed high-sec airlock HP.
+    - type: Add
+      message: Add spraypainter for heavy duty airlock
+  id: 2249
+  time: '2026-05-30T23:50:04.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/144
