@@ -1207,3 +1207,16 @@ Entries:
   id: 2260
   time: '2026-06-03T22:20:03.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/183
+- author: rebaserHEAD
+  changes:
+    - type: Tweak
+      message: >-
+        Survival boxes now start with a single MRE bar and a bottle of water
+        instead of a full MRE package.
+    - type: Remove
+      message: >-
+        MRE crates no longer appear in salvage loot or the cargo market, and the
+        MRE package was pulled from the sustenance vending machine.
+  id: 2261
+  time: '2026-06-03T22:20:50.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/181
