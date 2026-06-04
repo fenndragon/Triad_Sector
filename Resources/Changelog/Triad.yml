@@ -1249,3 +1249,12 @@ Entries:
   id: 2264
   time: '2026-06-04T03:11:26.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/103
+- author: IngvarJackal
+  changes:
+    - type: Add
+      message: Added targeting lock and linear firing solution.
+    - type: Tweak
+      message: Missile decoys now work.
+  id: 2265
+  time: '2026-06-04T03:12:26.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/139
