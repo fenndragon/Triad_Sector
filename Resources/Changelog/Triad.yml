@@ -1220,3 +1220,16 @@ Entries:
   id: 2261
   time: '2026-06-03T22:20:50.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/181
+- author: dijonmustard01
+  changes:
+    - type: Tweak
+      message: >-
+        Allows gas mining drills to be upgraded with superior manipulators to
+        increase the rate of gas extraction
+    - type: Tweak
+      message: >-
+        Allows gas mining drills to be anchorable on regular, non-gas deposit
+        tiles.
+  id: 2262
+  time: '2026-06-04T02:17:12.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/115
