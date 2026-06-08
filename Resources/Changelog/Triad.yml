@@ -1316,3 +1316,12 @@ Entries:
   id: 2271
   time: '2026-06-08T12:26:26.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/147
+- author: Eillyrea
+  changes:
+    - type: Remove
+      message: Ghosts can no longer see whisper due to privacy concerns.
+    - type: Remove
+      message: Admin ghosts can no longer see subtle and subtle OOC.
+  id: 2272
+  time: '2026-06-08T20:08:27.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/185
