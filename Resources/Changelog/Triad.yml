@@ -1390,3 +1390,13 @@ Entries:
   id: 2279
   time: '2026-06-10T02:22:31.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/198
+- author: RemervKeberb
+  changes:
+    - type: Fix
+      message: >-
+        Fixed the handrails bounding box, the instructions were upside down, now
+        you will properly be installing them at head height allowing for other
+        objects to slide on under them.
+  id: 2280
+  time: '2026-06-10T13:09:36.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/206
