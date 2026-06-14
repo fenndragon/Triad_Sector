@@ -1587,3 +1587,10 @@ Entries:
   id: 2299
   time: '2026-06-14T17:04:39.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/202
+- author: runicguardian
+  changes:
+    - type: Add
+      message: Added LessLethal ammo (EMP and Flash) to the China Lake! PLOOP!
+  id: 2300
+  time: '2026-06-14T17:07:17.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/219
