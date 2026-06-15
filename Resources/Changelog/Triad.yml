@@ -1610,3 +1610,10 @@ Entries:
   id: 2302
   time: '2026-06-14T22:48:34.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/227
+- author: DDrakov
+  changes:
+    - type: Add
+      message: Added german accent back
+  id: 2303
+  time: '2026-06-15T13:02:54.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/231
