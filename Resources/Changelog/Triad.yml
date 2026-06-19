@@ -1710,3 +1710,29 @@ Entries:
   id: 2310
   time: '2026-06-19T15:11:57.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/236
+- author: rebaserHEAD
+  changes:
+    - type: Add
+      message: >-
+        Most speech accents got a big personality pass: real phonetic quirks,
+        occasional verbal tics, and a lot more dialect vocabulary.
+    - type: Add
+      message: >-
+        German, Russian, Dwarven, Spanish, and French accents now have a
+        "(Mild)" trait variant that stays easier to read.
+    - type: Tweak
+      message: >-
+        Southern and Cowboy now share one drawl engine, and the Scottish accent
+        is now the Dwarven Brogue.
+    - type: Tweak
+      message: >-
+        Dwarves and Goblins can't double up on accents; take the free Accentless
+        trait to swap to a different one.
+    - type: Tweak
+      message: >-
+        enriched accents now show lore names (Terra Gallic, Heartworld Gentry,
+        Dustkin, and so on); the Italian trait is retired and Mobster is now the
+        New Brooklyn accent.
+  id: 2311
+  time: '2026-06-19T18:17:38.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/235
