@@ -1866,3 +1866,12 @@ Entries:
   id: 2321
   time: '2026-06-21T07:53:08.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/244
+- author: rebaserHEAD
+  changes:
+    - type: Fix
+      message: >-
+        Ship autopilot now keeps the dampener mode (Drive/Cruise/Park) you
+        selected instead of forcing the ship into Cruise.
+  id: 2322
+  time: '2026-06-21T07:54:56.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/245
